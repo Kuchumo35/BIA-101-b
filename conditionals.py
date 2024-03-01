@@ -29,3 +29,6 @@ if whatusertyped == "-":
 if whatusertyped == "*":
     print('doing multiplication')
     print('doing more multiplication')
+
+
+
